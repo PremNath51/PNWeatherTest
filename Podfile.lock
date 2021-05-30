@@ -1,0 +1,20 @@
+PODS:
+  - SVProgressHUD (2.2.5)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - SVProgressHUD
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - SVProgressHUD
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: 74548a76076a73aad9f2004c9f52242e16ebd87b
+
+COCOAPODS: 1.8.4
